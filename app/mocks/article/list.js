@@ -117,3 +117,12 @@ exports.getDetail = id => {
     return item.id === id;
   }).slice(0, 1);
 };
+
+exports.addCode = (data) => {
+  return {
+    "code": 200,
+    "data": data,
+    "message": "success",
+    "success": true
+  }
+}
