@@ -53,7 +53,7 @@
     "easywebpack-cli": "^4.0.0",
     "easywebpack-react": "^4.3.0",
     "egg-bin": "^4.5.0",
-    "egg-webpack": "^4.4.1",
+    "egg-webpack": "^4.4.9",
     "egg-webpack-react": "^2.0.2",
     "eslint-config-egg": "^5.1.1",
     "eslint-plugin-react": "^7.1.0",
